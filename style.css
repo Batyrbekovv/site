@@ -32,11 +32,26 @@ h3{
   font-size: 22px;
   
 }
+.posts{
+  padding: 10px;
+}
 .popularposts{
   display: flex;
-  margin: 10px;
 }
 
 .post1{
-  margin-right: 60px;
+  margin: 40px;
+  display: flex;
+  background-image: url('https://st.depositphotos.com/1008438/1897/i/600/depositphotos_18970321-stock-photo-modern-office-interior.jpg"');
+  height: 400px;
+  width: 500px;
+  text-align: bottom;
+}
+
+.post2{
+  margin: 40px;
+  display: flex;
+  height: 400px;
+  width: 500px;
+  background-image: url('https://image.freepik.com/free-photo/front-view-of-people-having-a-meeting-in-the-office_23-2148817053.jpg');
 }
