@@ -1,0 +1,42 @@
+ body{
+  padding-right: 30px; 
+  padding-left: 30px;
+ }
+
+ .header{
+  display: inline-block;
+ }
+
+ #navbar {
+  padding: 0;
+  margin: 0;
+  border: 2px solid whitesmoke;
+  /*width: 1000px;*/
+  background-color: white;
+  text-align: center;
+  background-position: center;
+}
+
+#navbar li { display: inline-block;
+  margin: 10px;
+}
+
+#navbar a {
+  color: black;
+  text-decoration: none;
+  display: inline-block;
+  width: 80px;
+}
+
+h3{
+  font-size: 22px;
+  
+}
+.popularposts{
+  display: flex;
+  margin: 10px;
+}
+
+.post1{
+  margin-right: 60px;
+}
